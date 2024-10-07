@@ -12,34 +12,38 @@ jobs:
 
     steps:
       # Step 1: Checkout the repository
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-      # Step 2: Generate the snake contribution grid
+      # Step 2: Generate the snake contribution grid (GIF and SVG)
       - name: Generate Snake GIF and SVG
         uses: Platane/snk@master
+        id: snake
         with:
           github_user_name: papali1305
-          # Generate GIF and SVG files in the "dist" directory
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 3: Show the status of the repository for debugging purposes
-      - name: Check Git Status
-        run: git status
-
+      # Step 3: Debugging: Check if the files are generated successfully
+      - name: List Generated Files
+        run: ls -al dist/
+        
       # Step 4: Commit and push the changes to the "output" branch
-      - name: Push changes to output branch
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add dist/
+          git commit -m "Generated snake GIF and SVG"
+          git push origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 5: Deploy the files to GitHub Pages (optional if you are using GitHub Pages to display the snake)
+      # Step 5: Optional: Deploy to GitHub Pages (if needed)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output  # The branch where the snake file will be deployed
-          build_dir: dist         # The directory where the generated snake file is located
+          target_branch: output  # The branch where the snake files will be deployed
+          build_dir: dist         # Directory of the generated snake files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
