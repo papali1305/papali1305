@@ -15,6 +15,10 @@
 - ☕ I belive, **a perfect cup of coffee can be the ultimate solution for any stress.**
 
 
+### 🐍 Python Eating My Contributions
+![snake gif](https://github.com/papali1305/papali1305/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
