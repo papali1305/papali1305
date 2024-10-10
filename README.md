@@ -61,8 +61,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papali1305&show_icons=true&locale=en" alt="papali1305" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papali1305&" alt="papali1305" /></p>
+
+## LeetCode Stats
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://leetcard.jacoblin.cool/sonu113?theme=light&extension=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sonu113?theme=light&extension=heatmap" alt="LeetCode Contributions" />
+</div>
+
+**LeetCode Profile: [sonu113](https://leetcode.com/u/sonu113/)**
+
+
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2056%20mins-blue)
 ```text
