@@ -16,8 +16,14 @@
 
 
 ### 🐍 Python Eating My Contributions
-![snake gif](https://github.com/papali1305/papali1305/blob/output/github-contribution-grid-snake.gif)
-
+<source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 
 
 <h3 align="left">Connect with me:</h3>
