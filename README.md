@@ -1,7 +1,25 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
-<h1 align="center">Hi 👋, I'm PAPALI PRIYA RATAN SAHU</h1>
-<h3 align="center">A passionate frontend developer and android developer from India</h3>
+<h1 align="center">Hi 🤖, I'm <span style="color: #00f2fe;">PAPALI PRIYA RATAN SAHU</span></h1>
+
+<h3 align="center">🚀 A Passionate Frontend Developer & Android Developer with a Vision for the Future 🌐</h3>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%23E34F26.svg?style=for-the-badge&logo=frontend&logoColor=white" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/Android%20Developer-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer">
+  <img src="https://img.shields.io/badge/Robotics%20Enthusiast-%230072D6.svg?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics Enthusiast">
+</p>
+
+---
+
+<p align="center">👨‍💻 I'm passionate about merging cutting-edge technology with the future of robotics and automation. I love exploring innovative solutions and developing futuristic applications that shape tomorrow. 🤖</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2k01uAU86BbW4h7uvL/giphy.gif" alt="robot arm gif" width="300"/>
+</p>
+
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papali1305&label=Profile%20views&color=0e75b6&style=flat" alt="papali1305" /> </p>
