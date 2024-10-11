@@ -16,9 +16,9 @@
 
 <p align="center">👨‍💻 I'm passionate about merging cutting-edge technology with the future of robotics and automation. I love exploring innovative solutions and developing futuristic applications that shape tomorrow. 🤖</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2k01uAU86BbW4h7uvL/giphy.gif" alt="robot arm gif" width="300"/>
-</p>
+
+ [![An image of @papali1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papali1305)](https://holopin.io/@papali1305) 
+
 
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
 
@@ -94,4 +94,7 @@ Windows                  6 hrs 27 mins       ███████████�
 ## ✍️ Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 
