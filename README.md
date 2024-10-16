@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 🤖, I'm <span style="color: #00f2fe;">PAPALI PRIYA RATAN SAHU</span></h1>
 
-<h3 align="center">🚀 A Passionate Frontend Developer & Android Developer with a Vision for the Future 🌐</h3>
+<h3 align="center">🚀 A Passionate Frontend Developer & Android Developer with a Vision for the Future ok🌐</h3>
 
 ---
 
