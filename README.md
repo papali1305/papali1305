@@ -16,8 +16,16 @@
 
 <p align="center">👨‍💻 I'm passionate about merging cutting-edge technology with the future of robotics and automation. I love exploring innovative solutions and developing futuristic applications that shape tomorrow. 🤖</p>
 
+## My Holopin Badges
 
- [![An image of @papali1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papali1305)](https://holopin.io/@papali1305) 
+Check out all my badges on Holopin!
+
+[![An image of @papali1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papali1305)](https://www.holopin.io/@papali1305#badges)
+
+## Hacktoberfest 2024 Badges
+You can see the badges I earned for Hacktoberfest 2024 and more on my [Holopin profile](https://www.holopin.io/@papali1305#badges).
+
+![Screenshot 2024-10-27 103720](https://github.com/user-attachments/assets/df0d23d8-791f-46b6-bc94-83bb08ab87ad)
 
 
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
