@@ -17,22 +17,11 @@
 <p align="center">👨‍💻 I'm passionate about merging cutting-edge technology with the future of robotics and automation. I love exploring innovative solutions and developing futuristic applications that shape tomorrow. 🤖</p>
 
 
-# Hello Developers </> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="50px" height="80px">
 
-<!-- <p align="center"><a href="https://github.com/papali1305">
-    <img align="center" alt="papali1305's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=papali1305&show_icons=true&theme=midnight-purple" />
-  </a></p>
-
-<p align="center"><a href="https://github.com/papali1305"><img src="https://github-profile-trophy.vercel.app/?username=papali1305&no-bg=true" alt="papali1305" /></a> </p>
+[![papali1305's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=papali1305&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=39d353&area=true&hide_border=true&custom_title=Real-Time%20Contribution%20Graph)](https://github.com/papali1305)
 
 
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
--->
-[![papali1305's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=papali1305&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/papali1305)
-
-<!--# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=papali1305&theme=midnight-purple&show_icons=true&count_private=true)
--->
 
 
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
