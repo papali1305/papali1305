@@ -16,13 +16,23 @@
 
 <p align="center">👨‍💻 I'm passionate about merging cutting-edge technology with the future of robotics and automation. I love exploring innovative solutions and developing futuristic applications that shape tomorrow. 🤖</p>
 
-## My Holopin Badges
 
-Check out all my badges on Holopin!
+# Hello Developers </> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-[![An image of @papali1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papali1305)](https://www.holopin.io/@papali1305#badges)
+<!-- <p align="center"><a href="https://github.com/papali1305">
+    <img align="center" alt="papali1305's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=papali1305&show_icons=true&theme=midnight-purple" />
+  </a></p>
 
-You can see the badges I earned for Hacktoberfest 2024 and more on my [Holopin profile](https://www.holopin.io/@papali1305#badges).
+<p align="center"><a href="https://github.com/papali1305"><img src="https://github-profile-trophy.vercel.app/?username=papali1305&no-bg=true" alt="papali1305" /></a> </p>
+
+
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
+-->
+[![papali1305's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=papali1305&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/papali1305)
+
+<!--# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=papali1305&theme=midnight-purple&show_icons=true&count_private=true)
+-->
 
 
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
@@ -38,15 +48,13 @@ You can see the badges I earned for Hacktoberfest 2024 and more on my [Holopin p
 - ☕ I belive, **a perfect cup of coffee can be the ultimate solution for any stress.**
 
 
-### 🐍 Python Eating My Contributions
-<source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+## My Holopin Badges
+
+Check out all my badges on Holopin!
+
+[![An image of @papali1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papali1305)](https://www.holopin.io/@papali1305#badges)
+
+You can see the badges I earned for Hacktoberfest 2024 and more on my [Holopin profile](https://www.holopin.io/@papali1305#badges).
 
 
 <h3 align="left">Connect with me:</h3>
@@ -96,15 +104,27 @@ Windows                  6 hrs 27 mins       ███████████�
 
 ```
 
-## ✍️ Quote :
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### 🐍 Python Eating My Contributions
+<source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 
 
 ## Hacktoberfest 2024 Badges
 
 ![Screenshot 2024-10-27 103720](https://github.com/user-attachments/assets/df0d23d8-791f-46b6-bc94-83bb08ab87ad)
+
+
+
+## ✍️ Quote :
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
