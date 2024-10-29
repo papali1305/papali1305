@@ -105,11 +105,6 @@ Windows                  6 hrs 27 mins       ███████████�
   />
 
 
-## Hacktoberfest 2024 Badges
-
-![Screenshot 2024-10-27 103720](https://github.com/user-attachments/assets/df0d23d8-791f-46b6-bc94-83bb08ab87ad)
-
-
 
 ## ✍️ Quote :
 
